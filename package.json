@@ -11,8 +11,28 @@
   "dependencies": {
     "expo": "~49.0.12",
     "expo-status-bar": "~1.6.0",
+    "firebase": "^10.4.0",
     "react": "18.2.0",
-    "react-native": "0.72.5"
+    "react-native": "0.72.5",
+    "d3": "^7.8.5",
+    "d3-scale": "^4.0.2",
+    "d3-shape": "^3.2.0",
+    "expo-build-properties": "^0.8.3",
+    "expo-dev-client": "~2.4.11",
+    "expo-firebase": "^0.0.0-alpha.0",
+    "expo-modules-autolinking": "^1.5.1",
+    "expo-splash-screen": "~0.20.5",
+    "react-dom": "^18.2.0",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-gesture-handler": "^2.13.1",
+    "react-native-reanimated": "^3.5.4",
+    "react-native-responsive-dimensions": "^3.1.1",
+    "react-native-safe-area-context": "^4.7.2",
+    "react-native-screens": "^3.25.0",
+    "react-native-svg": "^13.9.0",
+    "react-native-vector-icons": "^10.0.0",
+    "react-native-web": "~0.19.6",
+    "victory-native": "^36.6.11"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
